@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hey there :wave:
+
+<img src="https://raw.githubusercontent.com/Imaad00/Imaad00/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Imaad00/count.svg" />
+</p>
 
 <!--
 **Imaad00/Imaad00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
