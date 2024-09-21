@@ -9,7 +9,6 @@
 
 # About Me:
 
-🌱 I’m currently learning Web Development <br>
 💬 Ask me about anything <br>
 📫 How to reach me: Instagram,Twitter
 
