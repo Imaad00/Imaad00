@@ -33,13 +33,12 @@
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
-<!--# Github Stats:
+# Github Stats:
 
 [![Imaad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imaad00)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Imaad00&theme=radical&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Imaad00&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
--->
 
 # Quote:
 
