@@ -9,6 +9,7 @@
 
 # About Me:
 
+🌱 I’m currently Practicing on Python and Javascript projects
 💬 Ask me about anything <br>
 📫 How to reach me: Instagram,Twitter
 
