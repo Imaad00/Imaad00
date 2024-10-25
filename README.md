@@ -9,7 +9,8 @@
 
 # About Me:
 
-🌱 I’m currently Practicing on Python and Javascript projects<br>
+<!--🔭 I’m currently working on My Portfolio Website-->
+🌱 I’m currently Practicing on Python and React projects<br>
 💬 Ask me about anything <br>
 📫 How to reach me: Instagram,Twitter
 
