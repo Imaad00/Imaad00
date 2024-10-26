@@ -39,7 +39,7 @@
 
 [![Imaad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imaad00&show_icons=true&theme=maroongold)](https://github.com/Imaad00)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Imaad00&theme=maroongold&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Imaad00&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Imaad00&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # Quote:
 
