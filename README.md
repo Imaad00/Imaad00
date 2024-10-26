@@ -45,6 +45,13 @@
 # Quote:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+# Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imaad00&repo=Modern-UI-UX-GPT3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imaad00&repo=Resume-Screening-App&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imaad00&repo=Spotify-Clone&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imaad00&repo=Restaurant-Site&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
           
           
           
