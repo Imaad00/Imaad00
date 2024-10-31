@@ -14,6 +14,7 @@
 💬 Ask me about anything <br>
 📫 How to reach me: Instagram,Twitter
 
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 # Technologies Stack:
 
@@ -35,15 +36,19 @@
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
+
 # Github Stats:
 
-[![Imaad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imaad00&show_icons=true&theme=maroongold&cache_seconds=86400)](https://github.com/Imaad00)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Imaad00&theme=maroongold&hide_border=false)<br>
+[![Imaad's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Imaad00&theme=maroongold&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api?username=Imaad00&show_icons=true&theme=maroongold&cache_seconds=86400)](https://github.com/Imaad00)<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imaad00&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
 
 # Quote:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 # Repositories:
 
@@ -51,7 +56,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imaad00&repo=Resume-Screening-App&theme=radical)](https://github.com/Imaad00/Resume-Screening-App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imaad00&repo=Spotify-Clone&theme=radical)](https://github.com/Imaad00/Spotify-Clone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imaad00&repo=Restaurant-Site&theme=radical)](https://github.com/Imaad00/Restaurant-Site)
-          
+<br>
+
           
           
 
