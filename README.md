@@ -42,7 +42,10 @@
 
 [![Imaad's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Imaad00&theme=maroongold&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api?username=Imaad00&show_icons=true&theme=maroongold&cache_seconds=86400)](https://github.com/Imaad00)<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imaad00&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imaad00&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)<br>
+
+# Github Trophies:
+![](https://github-profile-trophy.vercel.app/?username=Imaad00&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)<br>
 
 # Quote:
 
@@ -57,9 +60,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imaad00&repo=Spotify-Clone&theme=radical)](https://github.com/Imaad00/Spotify-Clone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imaad00&repo=Restaurant-Site&theme=radical)](https://github.com/Imaad00/Restaurant-Site)
 <br>
-
-          
-          
 
 <!--
 **Imaad00/Imaad00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
