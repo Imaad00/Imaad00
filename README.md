@@ -7,7 +7,7 @@
   <img src="https://profile-counter.glitch.me/Imaad00/count.svg" />
 </p>
 
-# About Me:
+# About Me
 
 <!--🔭 I’m currently working on My Portfolio Website-->
 🌱 I’m currently Practicing DSA and AIML<br>
