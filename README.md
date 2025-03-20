@@ -57,8 +57,8 @@
 
 # Repositories:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imaad00&repo=Modern-UI-UX-GPT3&theme=radical)](https://github.com/Imaad00/Modern-UI-UX-GPT3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imaad00&repo=Expense-Manager-App&theme=radical)](https://github.com/Imaad0/Expense-Manager-App)-->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imaad00&repo=AI-Powered-Phishing-Detection&theme=radical)](https://github.com/Imaad00/AI-Powered-Phishing-Detection)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imaad00&repo=Expense-Manager-App&theme=radical)](https://github.com/Imaad0/Expense-Manager-App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imaad00&repo=Spotify-Clone&theme=radical)](https://github.com/Imaad00/Spotify-Clone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imaad00&repo=Restaurant-Site&theme=radical)](https://github.com/Imaad00/Restaurant-Site)
 <br>
