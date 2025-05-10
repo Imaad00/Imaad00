@@ -44,7 +44,7 @@
 
 ![Imaad's GitHub stats](https://nirzak-streak-stats.vercel.app?user=Imaad00&theme=merko&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api?username=Imaad00&show_icons=true&theme=merko&cache_seconds=86400)<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imaad00&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imaad00&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6)<br>
 
 # Github Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Imaad00&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)<br>
@@ -59,7 +59,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imaad00&repo=AI-Powered-Phishing-Detection&theme=radical)](https://github.com/Imaad00/AI-Powered-Phishing-Detection)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imaad00&repo=Expense-Manager-App&theme=radical)](https://github.com/Imaad0/Expense-Manager-App)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imaad00&repo=Spotify-Clone&theme=radical)](https://github.com/Imaad00/Spotify-Clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imaad00&repo=Resume-Matcher&theme=radical)](https://github.com/Imaad00/Resume-Matcher)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imaad00&repo=Restaurant-Site&theme=radical)](https://github.com/Imaad00/Restaurant-Site)
 <br>
 
