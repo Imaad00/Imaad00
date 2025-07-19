@@ -4,7 +4,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Imaad00/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Imaad00&color=yellow" alt="Profile views" />
 </p>
 
 # About Me:
