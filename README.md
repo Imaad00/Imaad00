@@ -46,7 +46,7 @@
 # Github Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Imaad00&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)<br>
 
-# Quote:
+# Quote
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
