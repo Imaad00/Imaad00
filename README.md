@@ -10,7 +10,7 @@
 # About Me:
 
 <!--🔭 I’m currently working on My Portfolio Website-->
-🌱 I’m currently working on AI. <br>
+🌱 I’m currently working on AI/ML. <br>
 💬 Ask me about anything. <br>
 📫 How to reach me: Instagram,Twitter.
 
