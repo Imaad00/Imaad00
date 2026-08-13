@@ -4,7 +4,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://komarev.com/ghpvc/?username=Imaad00&color=yellow" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Imaad00&color=red" alt="Profile views" />
 </p>
 
 # About Me:
