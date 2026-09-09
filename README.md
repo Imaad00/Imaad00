@@ -38,11 +38,9 @@
 
 # Github Stats:
 
-
-
-![Imaad's GitHub stats](https://nirzak-streak-stats.vercel.app?user=Imaad00&theme=radical&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api?username=Imaad00&show_icons=true&theme=radical&cache_seconds=86400)<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imaad00&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6)<br>
+[![Imaad's GitHub Streak](https://nirzak-streak-stats.onrender.com?user=Imaad00&theme=radical&hide_border=true)](https://git.io/streak-stats)<br>
+![](https://github-stats-extended.vercel.app/api?username=Imaad00&theme=radical&cache_seconds=86400&hide_border=true)<br>
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Imaad00&hide=Jupyter%20Notebook,CSS&langs_count=3&theme=radical&hide_border=true)<br>
 
 # Github Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Imaad00&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)<br>
