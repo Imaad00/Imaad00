@@ -42,8 +42,8 @@
 ![](https://github-stats-extended.vercel.app/api?username=Imaad00&theme=radical&cache_seconds=86400&hide_border=true)<br>
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Imaad00&hide=Jupyter%20Notebook,CSS&langs_count=3&theme=radical&hide_border=true)<br>
 
-# Github Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Imaad00&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)<br>
+<!--# Github Trophies:
+![](https://github-profile-trophy.vercel.app/?username=Imaad00&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)<br> -->
 
 # Quote
 
